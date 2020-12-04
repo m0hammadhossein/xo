@@ -1,3 +1,3 @@
 # xo
-xo game with computer
-You will never win
+xo game with computer<br/>
+<b>You will never win<b>
