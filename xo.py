@@ -40,6 +40,7 @@ def check_win(x):
 
 def check_cn(x):
     for i in range(9):
+        if table[i] in ['✖', '❍']: continue
         tb = table.copy()
         tb[i] = x
         tb2 = [tb[i:i + 3] for i in range(0, 9, 3)]
