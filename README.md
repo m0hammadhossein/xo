@@ -1,4 +1,4 @@
-#Tic-Tac-Toe<br/>
+<h1>Tic-Tac-Toe</h1><br/>
 Play Tic-Tac-Toe with computer<br/>
 <b>You will never win<b><br/><code>Python 3.x </code>
 
