@@ -1,6 +1,6 @@
 <h1>Tic-Tac-Toe</h1><br/>
 Play Tic-Tac-Toe with computer<br/>
-<b>You will never win<b><br/><code>Python 3.x </code><br/>
+<b>You will never win</b><br/><code>Python 3.x </code><br/>
 <p>Run this command</p>
 <code>pip install tabulate</code>
 
