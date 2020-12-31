@@ -77,6 +77,15 @@ while cn[0]>0:
             else:
                 if table[1][1]==' ' and cn[0]==8:
                     table[1][1]=cn[2][1]
+                elif table[1][1]==' ' and cn[0]==7:
+                    tb = table.flatten()
+                    cn_empty = [index for index,val in enumerate(tb) if val==' ' and index%2!=0].__len__()
+                    if cn_empty<4:
+                        table[1][1] = cn[2][1]
+                    else:
+                        empty_indexes = [index for index,val in enumerate(tb) if val==' ' and index%2==0 and index!=4]
+                        tb[choice(empty_indexes)] = cn[2][1]
+                        table = tb.reshape(3, 3)
                 else:
                     tb = table.flatten()
                     empty_indexes = [index for index,val in enumerate(tb) if val==' ']
