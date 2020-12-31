@@ -14,5 +14,5 @@ cd xo
 python xo.py
 ```
 <p align="center">
-<img height=400 width=1000 src="/images/xo.gif" />
+<img height=400 width=700 src="/images/xo.gif" />
 </p>
