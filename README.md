@@ -13,5 +13,6 @@ git clone https://github.com/m0hammadhossein/xo.git
 cd xo
 python xo.py
 ```
-
-![header image](https://raw.githubusercontent.com/Developer-cyber/xo/main/pc.png)
+<p align="center">
+<img src="/images/xo.mp4" />
+</p>
