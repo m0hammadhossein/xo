@@ -4,4 +4,3 @@ Play Tic-Tac-Toe with computer<br/>
 <p>Run this command for install library</p><br/><code>pip install numpy</code><br/><br/>
 
 ![header image](https://raw.githubusercontent.com/Developer-cyber/xo/main/pc.png)
-![header image](https://raw.githubusercontent.com/Developer-cyber/xo/main/multi.png)
