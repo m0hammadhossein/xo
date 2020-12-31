@@ -1,8 +1,8 @@
 # Tic-Tac-Toe:
 <p>
-Play Tic-Tac-Toe with computer or others
-You will never win
-Python 3.8.5 or higher
+Play Tic-Tac-Toe with computer or others<br/>
+You will never win<br/>
+Python 3.8.5 or higher<br/>
 </p>
 
 ## Run Tic-Tac-Toe:
