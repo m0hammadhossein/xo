@@ -2,7 +2,7 @@
 <p>
 Play Tic-Tac-Toe with computer or others<br/>
 You will never win<br/>
-Python 3.8.5 or higher<br/>
+Python 3.8 or higher<br/>
 </p>
 
 ## Run Tic-Tac-Toe:
