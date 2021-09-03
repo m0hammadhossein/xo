@@ -8,11 +8,12 @@ Python 3.8 or higher<br/>
 ## Run Tic-Tac-Toe:
   
 ```
-pip install numpy
-git clone https://github.com/m0hammadhossein/xo.git
-cd xo
-python xo.py
+sudo apt-get install libzbar0
+pip install pyzbar
+git clone https://github.com/m0hammadhossein/barcode-scanner.git
+cd barcode-scanner
+python main.py -i <yourimage>
 ```
 <p align="center">
-<img height=400 width=700 src="/images/xo.gif" />
+<img height=400 width=700 src="/images/barcode.gif" />
 </p>
